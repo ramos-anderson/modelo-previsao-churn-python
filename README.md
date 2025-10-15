@@ -39,7 +39,7 @@ O projeto segue o ciclo de vida padrão de um projeto de ciência de dados:
 
 O modelo de Regressão Logística treinado alcançou uma **acurácia geral de 80.40%** no conjunto de teste.
 
-![Matriz de Confusão](caminho/para/imagem/da/matriz_confusao.png)
+![Matriz de Confusão](visualizations/matriz_confusao.png)
 
 *   O modelo demonstrou alta **precisão** ao prever clientes que **não** dariam churn, acertando a grande maioria dos casos.
 *   O principal ponto de melhoria é o **"recall"** para os clientes que **sim** dão churn. Isso significa que, embora a maioria das previsões de churn estivesse correta, o modelo ainda deixou de identificar uma parte dos clientes que realmente cancelaram.
